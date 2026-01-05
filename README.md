@@ -32,7 +32,7 @@ The dashboard provides a clear, visual summary of total casualties, severity lev
 
 - How do casualties vary month-wise across years?
 
-# Dashboard
+# Dashboard : The following dashboard visually answers all the above KPIs and business questions
 <img src="https://github.com/ankkona/Road-Accident-Data/blob/main/Dashboard.png" alt="Dashboard Demo" width="1000"/>
 
 # Conclusion
